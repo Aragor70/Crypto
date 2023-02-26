@@ -1,0 +1,158 @@
+{
+    "language-switcher.language.english-gb": "English",
+    "language-switcher.language.polish": "Polski",
+    "loading": "Loading...",
+    "wrong.language.version": "Please select a different language version. We do not have a chosen language version.",
+    "content.not.available": "There is currently no content available.",
+    "list.search.headline": "Search here",
+    "today": "Today",
+    "from": "From",
+    "until": "Until",
+    "error.message": "<p>We have received an error.</p><p>Please check the internet connection.</p>",
+    "search.error.message": "<p>Please use letters, numbers, spaces, commas (,) dots (.) dashes (-), or underlines (_).</p>",
+    "contact.me": "Contact Me",
+    "auth": {
+        "login": {
+            "headline": "Login",
+            "login": "Log in"
+        },
+        "register": {
+            "headline": "Register",
+            "register": "Register"
+        },
+        "form": {
+            "email": "E-mail",
+            "password": "Password",
+            "firstName": "First name",
+            "lastName": "Last name",
+            "passwordConfirmation": "Confirm your password"
+        },
+        "error": {
+            "login": {
+                "email": "Please enter e-mail address.",
+                "password": "Please enter password."
+            },
+            "register": {
+                "passwordConfirmation": "Please enter both the same passwords."
+            }
+        }
+    },
+    "home": {
+        "me.name": "Mikołaj Prus",
+        "me.title": "Full-Stack Software Enginner",
+        "menu": {
+            "experience": "Work experience",
+            "projects": "Projects",
+            "skills": "Software skills",
+            "education": "Education",
+            "contact": "Contact",
+            "login": "Login",
+            "register": "Register"
+        },
+        "sections": {
+            "overview.headline": "Overview of my work",
+            "overview.collections": {
+                "title": "Project collections",
+                "text": "I am developing software for web and mobile software services. I desire to deliver excellent, innovative digital projects completed to the highest possible standards.",
+                "client": "Front-end",
+                "server": "Back-end",
+                "database": "Database"
+            },
+            "overview.project": {
+                "title": "Content management",
+                "text": "Website service lets you easily manage the content in range of our services without understanding any programming code."
+            }
+        },
+        "message.dev": "Images in process..."
+    },
+    "sd": {
+        "header.title": "Software projects",
+        "overview": "I especially develop applications with TypeScript, and Python in the environment of React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS, and Jest testing libraries. This page is right to overview the tech development.",
+        "section.ongoing.headline": "Ongoing development",
+        "section.events.headline": "Programming Events",
+        "section.online.headline": "Projects Online",
+        "section.repos.headline": "Repositories",
+        "section.drafts.headline": "Drafts",
+        "section.drafts.overview": "Draft projections include projects temporarily stopped development, waiting for deployment.",
+        "input.search.placeholder": "Search by name",
+        "project": {
+            "link.show.details": "View project details"
+        }
+    },
+    "experience": {
+        "header.title": "Work experience",
+        "overview": "W szczególności tworzę aplikacje napisane z TypeScript i Python w środowisku bibliotek React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS i Jest. Ta strona jest umożliwia przegląd rozwoju aplikacji.",
+        "section.current.headline": "Actual projects",
+        "section.completed.headline": "Completed projects",
+        "input.search.placeholder": "Wpisz nazwę",
+        "project": {
+            "link.show.details": "Pokaż szczegóły"
+        }
+    },
+    "education": {
+        "header.title": "Education",
+        "overview": "W szczególności tworzę aplikacje napisane z TypeScript i Python w środowisku bibliotek React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS i Jest. Ta strona jest umożliwia przegląd rozwoju aplikacji.",
+        "section.current.headline": "Actual projects",
+        "section.completed.headline": "Completed projects",
+        "input.search.placeholder": "Wpisz nazwę",
+        "project": {
+            "link.show.details": "Pokaż szczegóły"
+        }
+    },
+    "at": {
+        "text": "Text me",
+        "form": {
+            "headline": "Contact me",
+            "from": "From",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Submit"
+        }
+    },
+    "cv": {
+        "text": "Text me",
+        "sections": {
+            "summary": {
+                "title": "SUMMARY",
+                "text": "<p>My development experience comes from setting myself specific goals to achieve and helping my friends by providing custom software tools and solutions.</p><p>Development has given me an excellent foundation of problem-solving and focus on current activities. Practicing coding and building projects together with my friends had given me a grip on the team-working. </p><p>I have always been interested in how modern applications are created and this curiosity, along with my programming steps, working at Data4you &amp; BrikkApp, and level of studies in the field of learning programming languages has greatly influenced my present activities.</p>"
+            },
+            
+            "tech": {
+                "title": "TECH SKILLS",
+                "text": "<p>I especially develop <b>TypeScript</b>, and <b>Python</b> web applications in the environment of React Js / Angular, Redux, Django, Express / Nest Js, CSS, and Jest testing libraries. Also, I also participate in Data Science analyses, to describe the business problem and get to know the right solution.</p><p>I have the fluent knowledge to match database structures <b>SQL</b> and <b>No-SQL</b>.</p>"
+            },
+            
+            "languages": {
+                "title": "Languages",
+                "text": "<p>HTML 5, CSS 3, SCSS, JavaScript, TypeScript, Python, PHP, SQL</p>"
+            },
+            
+            "frameworks": {
+                "title": "Development",
+                "text": "<p>React, Angular, Redux, NestJs, Express, Django, Laravel, GIT</p>"
+            },
+            
+            "testing": {
+                "title": "Testing libraries",
+                "text": "<p>Jest, Enzyme, Mocha, Chai</p>"
+            },
+            
+            "databases": {
+                "title": "Databases",
+                "text": "<p>MySQL, PostgreSQL, MongoDB</p>"
+            },
+            
+            "services": {
+                "title": "Services",
+                "text": "<p>Digitalocean, Heroku, Netlify, SocketIO, Google Drive API, ScreenshotMachine API, Amazon s3 Storage</p>"
+            }
+        }
+    },
+    "project": {
+        "header.title": "Project",
+        "section.project.name": "Name",
+        "section.project.description": "Description",
+        "section.project.repository": "Repository",
+        "section.project.icons": "Tech stack"
+    }
+}

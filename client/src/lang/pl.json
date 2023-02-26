@@ -1,0 +1,157 @@
+{
+    "language-switcher.language.english-gb": "English",
+    "language-switcher.language.polish": "Polski",
+    "loading": "Ładowanie...",
+    "wrong.language.version": "Proszę wybrać inną wersję językową. Nie mamy obecnie treści w wybranym języku.",
+    "content.not.available": "Nie ma obecnie dostepnej zawartości.",
+    "list.search.headline": "Wyszukaj na stronie",
+    "today": "Dzisiaj",
+    "from": "Od",
+    "until": "Do",
+    "error.message": "<p>Zauważyliśmy notifikację o błędzie.</p><p>Proszę sprawdź swój aktualny dostep do internetu.</p>",
+    "search.error.message": "<p>Proszę używać liter, cyfr, spacji, przecinków (,) kropek (.) myślników (-) lub podkreśleń (_).</p>",
+    "contact.me": "Napisz do mnie",
+    "auth": {
+        "login": {
+            "headline": "Logowanie",
+            "login": "Zaloguj"
+        },
+        "register": {
+            "headline": "Rejestracja",
+            "register": "Zapisz"
+        },
+        "form": {
+            "email": "E-mail",
+            "password": "Hasło",
+            "firstName": "Imię",
+            "lastName": "Nazwisko",
+            "passwordConfirmation": "Potwierdź hasło"
+        },
+        "error": {
+            "login": {
+                "email": "Wprowadź adres email.",
+                "password": "Wprowadź hasło."
+            },
+            "register": {
+                "passwordConfirmation": "Potwierdzenie hasła potrzebuje być indentyczne jak hasło."
+            }
+        }
+    },
+    "home": {
+        "me.name": "Mikołaj Prus",
+        "me.title": "Rozwijam oprogramowanie",
+        "menu": {
+            "experience": "Projekty w zawodzie",
+            "projects": "Projekty własne",
+            "skills": "Umiejętności",
+            "education": "Edukacja",
+            "contact": "Kontakt",
+            "login": "Zaloguj",
+            "register": "Załóż konto"
+        },
+        "sections": {
+            "overview.headline": "Przegląd mojej pracy",
+            "overview.collections": {
+                "title": "Kolekcja projektów",
+                "text": "Tworzę oprogramowanie zarówno dla stron internetowych i urządzeń mobilnych. Zależy mi na dostarczaniu doskonałych i innowacyjnych projektów cyfrowych, realizowanych z zachowaniem najwyższych możliwych standardów.",
+                "client": "Interfejs użytkownika",
+                "server": "Serwer",
+                "database": "Baza danych"
+            },
+            "overview.project": {
+                "title": "Zarządzaj zawartością",
+                "text": "Strona internetowa, która umożliwia tobie łatwe zarządzanie treścią w zakresie naszych usług bez konieczności zrozumienia skryptu programistycznego."
+            }
+        },
+        "message.dev": "Strona w przebudowie..."
+    },
+    "sd": {
+        "header.title": "Projekty oprogramowania",
+        "overview": "W szczególności tworzę aplikacje napisane z TypeScript i Python w środowisku bibliotek React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS i Jest. Ta strona jest umożliwia przegląd rozwoju aplikacji.",
+        "section.ongoing.headline": "Projekty w rozwoju",
+        "section.events.headline": "Wydarzenia programistyczne",
+        "section.online.headline": "Projekty dostępne online",
+        "section.repos.headline": "Repozytoria",
+        "section.drafts.headline": "Wersje robocze",
+        "section.drafts.overview": "Wersje robocze obejmują projekty tymczasowo zatrzymane w fazie rozwoju, czekające na wdrożenie.",
+        "input.search.placeholder": "Wpisz nazwę",
+        "project": {
+            "link.show.details": "Pokaż szczegóły"
+        }
+    },
+    "experience": {
+        "header.title": "Projekty w zawodzie",
+        "overview": "W szczególności tworzę aplikacje napisane z TypeScript i Python w środowisku bibliotek React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS i Jest. Ta strona jest umożliwia przegląd rozwoju aplikacji.",
+        "section.current.headline": "Aktualne projekty",
+        "section.completed.headline": "Wykonane projekty",
+        "input.search.placeholder": "Wpisz nazwę",
+        "project": {
+            "link.show.details": "Pokaż szczegóły"
+        }
+    },
+    "education": {
+        "header.title": "Studia, kursy i szkolenia",
+        "overview": "W szczególności tworzę aplikacje napisane z TypeScript i Python w środowisku bibliotek React Js / Angular, Redux Js, Django, Express / Nest Js, CSS / SCSS i Jest. Ta strona jest umożliwia przegląd rozwoju aplikacji.",
+        "section.current.headline": "Aktualne kursy",
+        "section.completed.headline": "Wykonane kursy",
+        "input.search.placeholder": "Wpisz nazwę",
+        "project": {
+            "link.show.details": "Pokaż szczegóły"
+        }
+    },
+    "at": {
+        "text": "Napisz do mnie",
+        "form": {
+            "headline": "Wyślij wiadomość",
+            "from": "Od",
+            "subject": "Temat",
+            "message": "Wiadomość",
+            "submit": "Wyślij"
+        }
+    },
+    "cv": {
+        "sections": {
+            "summary": {
+                "title": "O mnie",
+                "text": "<p>Moje doświadczenie techniczne pochodzi z wyznaczania sobie konkretnych celów do osiągnięcia i pomagania moim przyjaciołom poprzez dostarczanie im niestandardowych narzędzi i rozwiązań programistycznych.</p><p>Rozwój dał mi doskonałą podstawę do rozwiązywania problemów i skupienia się na bieżących działaniach. Ćwiczenie kodowania i budowania projektów razem z przyjaciółmi pozwoliło mi opanować pracę zespołową. </p><p>Zawsze interesowało mnie, jak powstają nowoczesne aplikacje i ta ciekawość, wraz z moimi krokami programistycznymi, praca w Data4you &amp; BrikkApp oraz poziom studiów w zakresie nauki języków programowania w dużym stopniu wpłynął na moją obecną działalność.</p>"
+            },
+            
+            "tech": {
+                "title": "Techniczne umiejętności",
+                "text": "<p>W szczególności tworzę aplikacje internetowe z technologią <b>TypeScript</b> i <b>Python</b> razem w środowisku platform React Js / Angular, Redux, Django, Express / Nest Js, CSS, bibliotek do tworzenia testów. Ponadto uczestniczę w analizach Data Science, aby opisać problem biznesowy oraz doszukać się właściwego rozwiązanie.</p><p>Posiadam biegłą wiedzę, aby dopasować struktury baz danych <b>SQL</b> i <b >NoSQL</b>.</p>"
+            },
+            
+            "languages": {
+                "title": "Języki",
+                "text": "<p>HTML 5, CSS 3, SCSS, JavaScript, TypeScript, Python, PHP, SQL</p>"
+            },
+            
+            "frameworks": {
+                "title": "Biblioteki i struktury",
+                "text": "<p>React, Angular, Redux, NestJs, Express, Django, Laravel, GIT</p>"
+            },
+            
+            "testing": {
+                "title": "Biblioteki testujące",
+                "text": "<p>Jest, Enzyme, Mocha, Chai</p>"
+            },
+            
+            "databases": {
+                "title": "Bazy danych",
+                "text": "<p>MySQL, PostgreSQL, MongoDB</p>"
+            },
+            
+            "services": {
+                "title": "Platformy i serwisy",
+                "text": "<p>Digitalocean, Heroku, Netlify, SocketIO, Google Drive API, ScreenshotMachine API, Amazon s3 Storage</p>"
+            }
+        }
+    },
+    "project": {
+        "header.title": "Projekt",
+        "section.project.name": "Nazwa",
+        "section.project.description": "Opis",
+        "section.project.repository": "Repozytorium",
+        "section.project.icons": "Narzedzia"
+    }
+}
