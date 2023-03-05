@@ -7,7 +7,7 @@ export interface PayloadProps {
 
 class ApiService {
 
-    hostURL = "http://localhost:8080"
+    hostURL = "https://nicode-api.m-prus.uk"
 
     transform = async ( payload: PayloadProps ) => {
 
